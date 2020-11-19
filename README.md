@@ -3,7 +3,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@virendhanwani](https://medium.com/@virendhanwani)
 
-- 📫 Reach me **virenpdhanwani@gmail.com**
+- 📫 Reach me at **virenpdhanwani@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
