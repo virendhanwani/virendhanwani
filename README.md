@@ -7,6 +7,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Detecting Chess Pieces Using Tensorflow Object Detection API](https://medium.com/swlh/detecting-chess-pieces-using-tensorflow-object-detection-api-dc26e11d48c6?source=rss-779ba76996ec------2)
+- [Music Genre Classification](https://medium.com/analytics-vidhya/music-genre-classification-c9a52d89e07d?source=rss-779ba76996ec------2)
+- [Opening a Restaurant Ahmedabad City](https://medium.com/analytics-vidhya/opening-a-restaurant-ahmedabad-city-46218dc25515?source=rss-779ba76996ec------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
