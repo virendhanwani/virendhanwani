@@ -14,9 +14,9 @@
 <h3 align="center">Blogs posts</h3>
 <p align="center">
 <!-- BLOG-POST-LIST:START -->
-<a href="https://medium.com/swlh/detecting-chess-pieces-using-tensorflow-object-detection-api-dc26e11d48c6?source=rss-779ba76996ec------2" >Detecting Chess Pieces Using Tensorflow Object Detection API</a><br>
-<a href="https://medium.com/analytics-vidhya/music-genre-classification-c9a52d89e07d?source=rss-779ba76996ec------2" >Music Genre Classification</a><br>
-<a href="https://medium.com/analytics-vidhya/opening-a-restaurant-ahmedabad-city-46218dc25515?source=rss-779ba76996ec------2" >Opening a Restaurant Ahmedabad City</a><br>
+- [Detecting Chess Pieces Using Tensorflow Object Detection API](https://medium.com/swlh/detecting-chess-pieces-using-tensorflow-object-detection-api-dc26e11d48c6?source=rss-779ba76996ec------2)
+- [Music Genre Classification](https://medium.com/analytics-vidhya/music-genre-classification-c9a52d89e07d?source=rss-779ba76996ec------2)
+- [Opening a Restaurant Ahmedabad City](https://medium.com/analytics-vidhya/opening-a-restaurant-ahmedabad-city-46218dc25515?source=rss-779ba76996ec------2)
 <!-- BLOG-POST-LIST:END -->
 </p>
 
